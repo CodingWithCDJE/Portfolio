@@ -1,0 +1,28 @@
+.footer {
+  min-height: 25vh;
+  background-color: #292e49;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-container {
+  text-align: center;
+  font-size: 1.7vh;
+  color: #bbd2c5;
+}
+
+.footer-text-center {
+  text-align: center;
+}
+
+.footer-text-size {
+  font-size: 1.7vh;
+}
+
+.footer-email {
+  color: inherit;
+  text-decoration: none;
+  outline: none;
+}

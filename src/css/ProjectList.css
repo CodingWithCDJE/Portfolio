@@ -1,0 +1,85 @@
+.projectlist-header {
+  padding: 2vh;
+  font-size: 5vh;
+  color: #fbfff1;
+}
+
+.projectlist-text-center {
+  text-align: center;
+}
+
+.projectlist-container {
+  background: linear-gradient(to right, #292e49, #536976, #bbd2c5);
+}
+
+.projectlist-header-container {
+  text-decoration: #fbfff1 wavy underline;
+}
+
+.tools-header {
+  text-align: center;
+  padding: 1vh;
+  color: #fbfff1;
+  text-decoration: #fbfff1 underline;
+}
+.projectlist-tools {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 1vh;
+}
+
+/* Icons */
+.jsIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+.reactIcon {
+  height: 15vmin;
+  pointer-events: none;
+  background-color: rgb(100, 212, 250);
+  border-radius: 10px;
+}
+
+.htmlIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.cssIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.javaIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.nodeIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.visualIcon {
+  height: 15vmin;
+  pointer-events: none;
+  background-color: rgb(94, 28, 111);
+  border-radius: 10px;
+}
+
+.pythonIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+.gitIcon {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.githubIcon {
+  height: 15vmin;
+  pointer-events: none;
+  background-color: blanchedalmond;
+  border-radius: 6px;
+}

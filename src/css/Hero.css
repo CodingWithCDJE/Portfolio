@@ -1,0 +1,49 @@
+/* Main Container within hero */
+
+.hero-container {
+  background: linear-gradient(to left, #292e49, #536976, #bbd2c5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+.headerTwo-caption-container {
+  position: absolute;
+  bottom: 0;
+}
+
+/* Text modifications */
+
+.hero-text-color {
+  color: #fbfff1;
+}
+
+.hero-font-size {
+  font-size: 4vh;
+}
+/* image */
+
+.img-avatar {
+  vertical-align: middle;
+  margin: 2vh;
+  width: 35vh;
+  height: 35vh;
+  border-radius: 25%;
+}
+
+.hero-text-center {
+  text-align: center;
+}
+
+/* Link tag */
+.imitation-button {
+  font-size: 3vh;
+  color: #292e49;
+  background: #fff;
+  margin: 1vh;
+  padding: 1vh;
+  border-radius: 2vh;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+}

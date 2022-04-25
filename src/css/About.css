@@ -1,0 +1,31 @@
+.about-container {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+ul li {
+  padding: 1vh;
+}
+
+.text-padding {
+  padding: 3vh;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-color {
+  color: #292e49;
+}
+
+.text-size {
+  font-size: 3vh;
+  font-weight: 700;
+}
+
+.text-margin {
+  margin-left: 2vh;
+}
