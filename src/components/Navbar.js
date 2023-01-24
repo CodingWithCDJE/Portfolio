@@ -1,4 +1,4 @@
-import Resume from '../assets/ChristopherEstevez.pdf';
+import Resume from '../assets/CDJE--Resume--latest.pdf';
 import '../css/Navbar.css';
 
 const Navbar = () => {
