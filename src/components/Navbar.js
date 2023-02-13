@@ -1,4 +1,4 @@
-import Resume from '../assets/CDJE--Resume--latest.pdf';
+import Resume from '../assets/Christopher_De_Jesus_Estevez_Resume.pdf';
 import '../css/Navbar.css';
 
 const Navbar = () => {
